@@ -1,0 +1,544 @@
+# Clone Audit
+
+- Project: /Users/mayankbansal/Library/Application Support/Open Design/namespaces/release-stable/data/projects/893fd233-b1dd-46d7-a64f-33498b25602d
+- Scanned files: 212
+- Findings: 5198
+
+## 保真度硬伤（字体 / 图片 / 颜色）
+- 未发现
+
+## 追踪脚本 / 统计像素
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `Ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `Ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `Ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `Ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/tmp/original-layout.js:4 · Google Analytics / gtag · `ga(`
+- .od-skills/web-clone-a5a9cd5828/SKILL.md:155 · Google Tag Manager · `googletagmanager`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `Ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `Ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `Ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `Ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js:4 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/client.-4qFUABx.js:3 · Google Analytics / gtag · `Ga(`
+- assets/js/loopsii.com/tweakpane.CejtfnN4.js:2 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/tweakpane.CejtfnN4.js:2 · Google Analytics / gtag · `ga(`
+- assets/js/loopsii.com/tweakpane.CejtfnN4.js:2 · Google Analytics / gtag · `Ga(`
+
+## 原站品牌残留
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:16 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · brand residue: Loopsii · `Loopsii`
+- 还有 3756 条未展开
+
+## 日文残留
+- 未发现
+
+## TODO / 占位内容
+- .file-versions/0d4007e2b38950d77fd81157/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/0d4007e2b38950d77fd81157/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/0eb547304658805aad788d32/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/0eb547304658805aad788d32/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/0eb547304658805aad788d32/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/0eb547304658805aad788d32/manifest.json:28 · TODO / placeholder content · `Todo`
+- .file-versions/0eb547304658805aad788d32/manifest.json:43 · TODO / placeholder content · `todo`
+- .file-versions/0eb547304658805aad788d32/manifest.json:43 · TODO / placeholder content · `Todo`
+- .file-versions/1c6a3ccb4552249b33903b1f/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/1c6a3ccb4552249b33903b1f/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/34883deb573f1807f59b53a0/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/34883deb573f1807f59b53a0/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/51eed3064689931356892dd6/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/51eed3064689931356892dd6/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/51eed3064689931356892dd6/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/51eed3064689931356892dd6/manifest.json:28 · TODO / placeholder content · `Todo`
+- .file-versions/71082ee9f58bf78bbb37bcd1/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/71082ee9f58bf78bbb37bcd1/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/8d801bc838662225c2779765/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/8d801bc838662225c2779765/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/8d801bc838662225c2779765/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/8d801bc838662225c2779765/manifest.json:28 · TODO / placeholder content · `Todo`
+- .file-versions/8e59ba4d177ae79b3f28b2d5/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/8e59ba4d177ae79b3f28b2d5/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/9217d4717173e683493f6f67/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/9217d4717173e683493f6f67/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/932a49128a4d5df52a45b763/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/932a49128a4d5df52a45b763/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/932a49128a4d5df52a45b763/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/932a49128a4d5df52a45b763/manifest.json:28 · TODO / placeholder content · `Todo`
+- .file-versions/ae4a5777369537b8f269640c/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/ae4a5777369537b8f269640c/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/ae4a5777369537b8f269640c/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/ae4a5777369537b8f269640c/manifest.json:28 · TODO / placeholder content · `Todo`
+- .file-versions/b8c223f34e617f2813506dac/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/b8c223f34e617f2813506dac/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/b8c223f34e617f2813506dac/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/b8c223f34e617f2813506dac/manifest.json:28 · TODO / placeholder content · `Todo`
+- .file-versions/bb82043edc61747fdc1c556d/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/bb82043edc61747fdc1c556d/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/c1b5a1dcaf593b1ae80871a1/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/c1b5a1dcaf593b1ae80871a1/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/d9da0f2ceb765cd1e140a6f3/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/d9da0f2ceb765cd1e140a6f3/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/d9da0f2ceb765cd1e140a6f3/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/d9da0f2ceb765cd1e140a6f3/manifest.json:28 · TODO / placeholder content · `Todo`
+- .file-versions/df60a32c94344835d1155865/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/df60a32c94344835d1155865/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/e2f1a2b78ae215246c743398/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/e2f1a2b78ae215246c743398/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/e2f1a2b78ae215246c743398/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/e2f1a2b78ae215246c743398/manifest.json:28 · TODO / placeholder content · `Todo`
+- .file-versions/e573a219f1e658482874f4c1/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/e573a219f1e658482874f4c1/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/ed7065644180b882d19c3a40/manifest.json:13 · TODO / placeholder content · `todo`
+- .file-versions/ed7065644180b882d19c3a40/manifest.json:13 · TODO / placeholder content · `Todo`
+- .file-versions/ed7065644180b882d19c3a40/manifest.json:28 · TODO / placeholder content · `todo`
+- .file-versions/ed7065644180b882d19c3a40/manifest.json:28 · TODO / placeholder content · `Todo`
+- .od-skills/web-clone-a5a9cd5828/SKILL.md:265 · TODO / placeholder content · `TODO`
+- .od-skills/web-clone-a5a9cd5828/SKILL.md:280 · TODO / placeholder content · `TODO`
+- .od-skills/web-clone-a5a9cd5828/references/deliverables.md:137 · TODO / placeholder content · `TODO`
+- .od-skills/web-clone-a5a9cd5828/references/design-dna.md:41 · TODO / placeholder content · `TODO`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:27 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:27 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:27 · TODO / placeholder content · `Todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:27 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:27 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:273 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:273 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:297 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:297 · TODO / placeholder content · `Todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:322 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:322 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/mount.BHNI6_ha.js:322 · TODO / placeholder content · `Todo`
+- assets/js/loopsii.com/tour.svelte.CBso2Ywb.js:1 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/tour.svelte.CBso2Ywb.js:1 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/tour.svelte.CBso2Ywb.js:1 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/tour.svelte.CBso2Ywb.js:5 · TODO / placeholder content · `todo`
+- assets/js/loopsii.com/tour.svelte.CBso2Ywb.js:5 · TODO / placeholder content · `todo`
+
+## 外部依赖 / 外链风险
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://loopsii.com/connect/chatgpt`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://loopsii.com/connect/chatgpt`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://schema.org`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://loopsii.com/favicon.svg`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://www.tiktok.com/@loopsii.app`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://schema.org`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://schema.org`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/0d4007e2b38950d77fd81157/0001-c2dd4900-c463-4731-b190-12861e9efd36.html:3 · external URL · `https://app.loopsii.com/api/mcp`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://loopsii.comassets/images/loopsii.com/favicon-e35721e776.svg`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://www.tiktok.com/@loopsii.app`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:3 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0001-b4b186f2-1f6d-47e4-a8fc-44a3e2f0f4a5.html:29 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://loopsii.comassets/images/loopsii.com/favicon-e35721e776.svg`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://www.tiktok.com/@loopsii.app`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:3 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:3 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:3 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:29 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:29 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0002-91a16c5c-43db-436e-a9d4-477f00971300.html:29 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://loopsii.com/favicon.svg`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://www.tiktok.com/@loopsii.app`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://schema.org`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:3 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:3 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:3 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:11 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:29 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:29 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/0eb547304658805aad788d32/0003-4c561850-3fb1-452e-bab3-7fa7f359680e.html:29 · external URL · `https://schema.org`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://loopsii.com/connect`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://loopsii.com/connect`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://schema.org`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://loopsii.com/favicon.svg`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://www.tiktok.com/@loopsii.app`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://schema.org`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://schema.org`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:3 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:3 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:3 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/1c6a3ccb4552249b33903b1f/0001-6f8dd2dd-39c1-46b1-8b5c-b17d15723357.html:3 · external URL · `https://app.loopsii.com/api/mcp`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://loopsii.com/terms`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://loopsii.com/terms`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://schema.org`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://loopsii.com/favicon.svg`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://www.tiktok.com/@loopsii.app`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://schema.org`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://schema.org`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:3 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:3 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/34883deb573f1807f59b53a0/0001-93fd39a0-b792-4186-9793-4f2d260f5637.html:3 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://loopsii.com/connect/codex`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://loopsii.com/connect/codex`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://schema.org`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://loopsii.com../../assets/images/loopsii.com/favicon-e35721e776.svg`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://www.tiktok.com/@loopsii.app`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://schema.org`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://schema.org`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:3 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:3 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:3 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:3 · external URL · `https://app.loopsii.com/api/mcp`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:4 · external URL · `https://app.loopsii.com/api/mcp`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:6 · external URL · `https://app.loopsii.com/api/mcp&quot;`
+- .file-versions/51eed3064689931356892dd6/0001-172ad8a2-6e13-46a4-908a-b08eba154bea.html:7 · external URL · `https://app.loopsii.com/api/mcp&quot;`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://loopsii.com/connect/codex`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://loopsii.com/connect/codex`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://schema.org`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://loopsii.com/favicon.svg`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://www.tiktok.com/@loopsii.app`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://schema.org`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://schema.org`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:3 · external URL · `https://app.loopsii.com/sign-up`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:3 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:3 · external URL · `https://x.com/loopsiiapp`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:3 · external URL · `https://www.instagram.com/loopsii.app/`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:3 · external URL · `https://app.loopsii.com/api/mcp`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:4 · external URL · `https://app.loopsii.com/api/mcp`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:6 · external URL · `https://app.loopsii.com/api/mcp&quot;`
+- .file-versions/51eed3064689931356892dd6/0002-1cc09ff7-3443-4044-abbe-b3077c234ccf.html:7 · external URL · `https://app.loopsii.com/api/mcp&quot;`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://loopsii.com/connect/codex`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://loopsii.com/connect/codex`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://loopsii.com/og.jpg?v=3`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://schema.org`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://loopsii.com/`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://loopsii.com/favicon.svg`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://www.linkedin.com/company/loopsii/`
+- .file-versions/71082ee9f58bf78bbb37bcd1/0001-deb21fa6-50da-4a7c-b10c-651cd1386792.html:1 · external URL · `https://x.com/loopsiiapp`
+- 还有 926 条未展开
+
+## 结论
+- 需要处理上面的残留项后再声明可部署。
+
+## Provenance
+
+Formalized by Open Design from candidate 57e6aa0b-78cd-4ca2-8c1d-4c961a755769.
